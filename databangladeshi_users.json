@@ -1,0 +1,5738 @@
+[
+  {
+    "user_id": 1001,
+    "purchases": [
+      1994,
+      651,
+      1246,
+      1040
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-25",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1002,
+    "purchases": [
+      645,
+      492
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-04-30",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1003,
+    "purchases": [
+      1285,
+      1198
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-05-06",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1004,
+    "purchases": [
+      114,
+      1662,
+      210
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-24",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1005,
+    "purchases": [
+      1269,
+      1418,
+      559,
+      835,
+      781
+    ],
+    "location": "Khulna",
+    "last_login": "2025-05-20",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1006,
+    "purchases": [
+      1341,
+      1478
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-25",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1007,
+    "purchases": [
+      685,
+      1836,
+      245,
+      632
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-23",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1008,
+    "purchases": [
+      1746
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-03-25",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1009,
+    "purchases": [
+      632,
+      380,
+      1061,
+      601
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-06",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1010,
+    "purchases": [
+      1660
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-02-01",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1011,
+    "purchases": [
+      981,
+      998,
+      1232,
+      846,
+      1689
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-19",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1012,
+    "purchases": [
+      1880,
+      1937,
+      803,
+      1547,
+      1379
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-05-08",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1013,
+    "purchases": [
+      1020,
+      1567,
+      1882,
+      286
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-25",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1014,
+    "purchases": [
+      185,
+      1776,
+      1917,
+      1226
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-05",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1015,
+    "purchases": [
+      486,
+      1729,
+      1226
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-05-16",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1016,
+    "purchases": [
+      208,
+      1755,
+      134,
+      1024,
+      881
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-14",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1017,
+    "purchases": [
+      516,
+      1382,
+      1983
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-03-29",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1018,
+    "purchases": [
+      1399
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-24",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1019,
+    "purchases": [
+      689,
+      830,
+      1197,
+      1793,
+      166
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-24",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1020,
+    "purchases": [
+      674,
+      1707,
+      1447
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-05-15",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1021,
+    "purchases": [
+      1724,
+      1761,
+      1656,
+      547,
+      1652
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-23",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1022,
+    "purchases": [
+      1713,
+      101,
+      1979,
+      463,
+      220
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-20",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1023,
+    "purchases": [
+      1836,
+      659,
+      1738
+    ],
+    "location": "Khulna",
+    "last_login": "2025-03-12",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1024,
+    "purchases": [
+      691,
+      1315
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-03-23",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1025,
+    "purchases": [
+      526,
+      1420,
+      1188,
+      876,
+      1445
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-16",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1026,
+    "purchases": [
+      850,
+      1328,
+      1304
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-03",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1027,
+    "purchases": [
+      753,
+      1671,
+      1264,
+      243,
+      782
+    ],
+    "location": "Khulna",
+    "last_login": "2025-01-19",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1028,
+    "purchases": [
+      1759,
+      118,
+      1501,
+      333,
+      1404,
+      538
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-13",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1029,
+    "purchases": [
+      162,
+      129,
+      1177,
+      1056,
+      347
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-10",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1030,
+    "purchases": [
+      472,
+      259,
+      1336
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-11",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1031,
+    "purchases": [
+      1123
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-12",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1032,
+    "purchases": [
+      1748,
+      1896
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-25",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1033,
+    "purchases": [
+      628,
+      691,
+      138,
+      1448,
+      165,
+      558
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-16",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1034,
+    "purchases": [
+      1208,
+      1894,
+      1936,
+      511,
+      583
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-16",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1035,
+    "purchases": [
+      1406,
+      1043,
+      1936,
+      273,
+      1949,
+      1512
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-04-04",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1036,
+    "purchases": [
+      637,
+      1104,
+      174,
+      961,
+      864
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-04",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1037,
+    "purchases": [
+      1771,
+      727,
+      1268,
+      724
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-05",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1038,
+    "purchases": [
+      1223,
+      1214,
+      1722
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-05-19",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1039,
+    "purchases": [
+      307,
+      1275,
+      710,
+      693
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-03-13",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1040,
+    "purchases": [
+      1688,
+      749,
+      443
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-24",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1041,
+    "purchases": [
+      1754,
+      172,
+      345,
+      622,
+      303
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-05-18",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1042,
+    "purchases": [
+      1633,
+      503,
+      571
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-04-05",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1043,
+    "purchases": [
+      1871,
+      252,
+      1954,
+      943,
+      359
+    ],
+    "location": "Khulna",
+    "last_login": "2025-05-18",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1044,
+    "purchases": [
+      456,
+      575
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-21",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1045,
+    "purchases": [
+      188,
+      1989,
+      287,
+      1191,
+      782,
+      984
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-04-13",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1046,
+    "purchases": [
+      828,
+      1228
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-01",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1047,
+    "purchases": [
+      1455,
+      1978
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-30",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1048,
+    "purchases": [
+      223,
+      1842,
+      933,
+      749,
+      729
+    ],
+    "location": "Barisal",
+    "last_login": "2025-02-17",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1049,
+    "purchases": [
+      1088,
+      1265,
+      509
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-16",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1050,
+    "purchases": [
+      1209,
+      108,
+      298
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-19",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1051,
+    "purchases": [
+      1874,
+      124,
+      435,
+      726,
+      489,
+      1272
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-05-03",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1052,
+    "purchases": [
+      487
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-07",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1053,
+    "purchases": [
+      351,
+      1280,
+      572,
+      1710
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-16",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1054,
+    "purchases": [
+      1108,
+      1798,
+      1459,
+      1035
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-17",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1055,
+    "purchases": [
+      1299,
+      1300
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-19",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1056,
+    "purchases": [
+      357,
+      1731,
+      516,
+      332,
+      304
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-04-02",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1057,
+    "purchases": [
+      1438,
+      780,
+      435,
+      1450
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-05",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1058,
+    "purchases": [
+      786,
+      1497,
+      1139,
+      539
+    ],
+    "location": "Khulna",
+    "last_login": "2025-02-24",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1059,
+    "purchases": [
+      1357,
+      1422,
+      1422,
+      1788,
+      1635
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-02-27",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1060,
+    "purchases": [
+      1257,
+      1343,
+      458,
+      170
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-02-20",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1061,
+    "purchases": [
+      1501
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-13",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1062,
+    "purchases": [
+      242,
+      711,
+      643,
+      1602
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-02-28",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1063,
+    "purchases": [
+      530,
+      195,
+      204,
+      1644,
+      1582
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-05-14",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1064,
+    "purchases": [
+      1014,
+      1766,
+      1358,
+      1132,
+      1861,
+      1413
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-12",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1065,
+    "purchases": [
+      1514
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-01",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1066,
+    "purchases": [
+      1904
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-02-12",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1067,
+    "purchases": [
+      171
+    ],
+    "location": "Khulna",
+    "last_login": "2025-01-26",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1068,
+    "purchases": [
+      997,
+      1092,
+      845,
+      748,
+      1580
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-11",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1069,
+    "purchases": [
+      1466,
+      1495,
+      579,
+      136,
+      386
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-28",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1070,
+    "purchases": [
+      1227,
+      363,
+      1201,
+      1552
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-03",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1071,
+    "purchases": [
+      796,
+      404,
+      1902,
+      1457,
+      621,
+      1514
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-05-08",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1072,
+    "purchases": [
+      1095
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-17",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1073,
+    "purchases": [
+      1653,
+      1703,
+      821
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-04-11",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1074,
+    "purchases": [
+      520,
+      1101,
+      1313,
+      766,
+      1803
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-08",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1075,
+    "purchases": [
+      1660
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-05-03",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1076,
+    "purchases": [
+      684,
+      349,
+      1185,
+      1998,
+      1888,
+      1063
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-03-11",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1077,
+    "purchases": [
+      905,
+      1653,
+      851
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-24",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1078,
+    "purchases": [
+      625,
+      643,
+      1109,
+      506
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-04-13",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1079,
+    "purchases": [
+      142,
+      1561,
+      231,
+      1240
+    ],
+    "location": "Khulna",
+    "last_login": "2025-05-06",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1080,
+    "purchases": [
+      1919
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-19",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1081,
+    "purchases": [
+      1626,
+      267
+    ],
+    "location": "Khulna",
+    "last_login": "2025-01-04",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1082,
+    "purchases": [
+      704,
+      1994
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-28",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1083,
+    "purchases": [
+      255,
+      1276,
+      495,
+      798,
+      1475
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-05-13",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1084,
+    "purchases": [
+      1322,
+      1026,
+      523,
+      1191,
+      653
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-02",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1085,
+    "purchases": [
+      1224,
+      486,
+      1531,
+      1141,
+      1859,
+      176
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-02-26",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1086,
+    "purchases": [
+      797,
+      1045,
+      1580
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-26",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1087,
+    "purchases": [
+      1360
+    ],
+    "location": "Khulna",
+    "last_login": "2025-01-28",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1088,
+    "purchases": [
+      557,
+      1526,
+      178,
+      1285,
+      1205
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-14",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1089,
+    "purchases": [
+      505
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-26",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1090,
+    "purchases": [
+      703,
+      700,
+      1446,
+      676
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-04-13",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1091,
+    "purchases": [
+      875,
+      424,
+      885
+    ],
+    "location": "Khulna",
+    "last_login": "2025-03-03",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1092,
+    "purchases": [
+      1194,
+      1816,
+      1926,
+      821,
+      1617
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-03-18",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1093,
+    "purchases": [
+      903,
+      1809
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-29",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1094,
+    "purchases": [
+      1854,
+      934,
+      1206,
+      241
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-05-12",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1095,
+    "purchases": [
+      1793,
+      1491,
+      778,
+      1318,
+      1246
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-05-13",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1096,
+    "purchases": [
+      370,
+      1957,
+      1345,
+      924,
+      1200,
+      180
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-18",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1097,
+    "purchases": [
+      1659,
+      1323,
+      1466,
+      1108,
+      1049
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-04",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1098,
+    "purchases": [
+      510,
+      1361,
+      547
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-01",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1099,
+    "purchases": [
+      1624,
+      682,
+      1645,
+      997,
+      539
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-27",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1100,
+    "purchases": [
+      1302,
+      939
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-18",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1101,
+    "purchases": [
+      790,
+      350,
+      1149,
+      941,
+      142
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-09",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1102,
+    "purchases": [
+      553,
+      539,
+      816,
+      1029,
+      1732,
+      949
+    ],
+    "location": "Khulna",
+    "last_login": "2025-05-02",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1103,
+    "purchases": [
+      1136,
+      1566
+    ],
+    "location": "Khulna",
+    "last_login": "2025-01-26",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1104,
+    "purchases": [
+      1973,
+      279,
+      1438,
+      1312,
+      720
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-23",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1105,
+    "purchases": [
+      304
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-03-24",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1106,
+    "purchases": [
+      966,
+      1516
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-18",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1107,
+    "purchases": [
+      326,
+      1418,
+      1091
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-07",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1108,
+    "purchases": [
+      1822,
+      710
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-02-07",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1109,
+    "purchases": [
+      1480,
+      463
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-07",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1110,
+    "purchases": [
+      132,
+      346,
+      768
+    ],
+    "location": "Khulna",
+    "last_login": "2025-02-04",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1111,
+    "purchases": [
+      1563,
+      900,
+      611,
+      584,
+      1287
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-03-20",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1112,
+    "purchases": [
+      301,
+      335,
+      984,
+      1472,
+      1344,
+      963
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-29",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1113,
+    "purchases": [
+      959,
+      1692,
+      360,
+      1771,
+      1058,
+      1526
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-18",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1114,
+    "purchases": [
+      144,
+      638,
+      821,
+      1202
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-21",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1115,
+    "purchases": [
+      881,
+      1103,
+      905,
+      1443,
+      554
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-23",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1116,
+    "purchases": [
+      378,
+      729,
+      654,
+      893,
+      1762,
+      616
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-04-28",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1117,
+    "purchases": [
+      778,
+      729,
+      1361,
+      1998
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-22",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1118,
+    "purchases": [
+      1095
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-26",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1119,
+    "purchases": [
+      502,
+      449,
+      1528
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-06",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1120,
+    "purchases": [
+      1788,
+      1539,
+      1859,
+      853,
+      866,
+      1432
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-30",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1121,
+    "purchases": [
+      319
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-16",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1122,
+    "purchases": [
+      645,
+      1216,
+      1384
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-04-08",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1123,
+    "purchases": [
+      1124,
+      1000,
+      213,
+      369,
+      212
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-03-24",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1124,
+    "purchases": [
+      1599,
+      1674,
+      636,
+      435,
+      1926
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-05-12",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1125,
+    "purchases": [
+      348,
+      774,
+      895,
+      1830,
+      186,
+      1524
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-05-16",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1126,
+    "purchases": [
+      828,
+      369,
+      467,
+      938,
+      1924,
+      1589
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-04-21",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1127,
+    "purchases": [
+      446,
+      829
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-22",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1128,
+    "purchases": [
+      306,
+      1934,
+      681
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-30",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1129,
+    "purchases": [
+      1317,
+      1684,
+      243,
+      456,
+      793,
+      259
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-21",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1130,
+    "purchases": [
+      1029,
+      1905
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-04",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1131,
+    "purchases": [
+      1768,
+      1286,
+      1279,
+      1458
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-19",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1132,
+    "purchases": [
+      176
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-13",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1133,
+    "purchases": [
+      1574,
+      1213,
+      767,
+      1900
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-05-08",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1134,
+    "purchases": [
+      1960,
+      1746,
+      283,
+      501,
+      1970,
+      1514
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-02-03",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1135,
+    "purchases": [
+      1058,
+      627,
+      1380,
+      1385
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-13",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1136,
+    "purchases": [
+      930,
+      867,
+      608,
+      967
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-22",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1137,
+    "purchases": [
+      1793,
+      1106
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-05-01",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1138,
+    "purchases": [
+      2000,
+      422,
+      608,
+      1658,
+      1550
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-28",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1139,
+    "purchases": [
+      298,
+      1361,
+      164,
+      858,
+      1130,
+      1585
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-05",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1140,
+    "purchases": [
+      1203,
+      116,
+      1964,
+      859,
+      321
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-04",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1141,
+    "purchases": [
+      1537,
+      817,
+      415,
+      598
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-08",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1142,
+    "purchases": [
+      1285,
+      713,
+      1625,
+      856,
+      1641
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-05-12",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1143,
+    "purchases": [
+      1714,
+      1441,
+      334,
+      137,
+      1341,
+      1949
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-05-18",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1144,
+    "purchases": [
+      1883,
+      122,
+      1457,
+      1367
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-05-10",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1145,
+    "purchases": [
+      1190,
+      1289,
+      312
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-20",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1146,
+    "purchases": [
+      1775,
+      184,
+      1874,
+      1815,
+      295,
+      1932
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-13",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1147,
+    "purchases": [
+      1217,
+      139,
+      975,
+      1452
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-02-02",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1148,
+    "purchases": [
+      1366,
+      1798,
+      554,
+      1278,
+      722,
+      1148
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-26",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1149,
+    "purchases": [
+      1707,
+      475,
+      1606,
+      806
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-11",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1150,
+    "purchases": [
+      806,
+      1208,
+      421,
+      1598
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-04-10",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1151,
+    "purchases": [
+      655
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-18",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1152,
+    "purchases": [
+      257,
+      956,
+      754,
+      1723,
+      1762,
+      1359
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-23",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1153,
+    "purchases": [
+      1196,
+      154,
+      1392,
+      1490
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-02",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1154,
+    "purchases": [
+      1895,
+      1358,
+      208,
+      265,
+      436
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-09",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1155,
+    "purchases": [
+      455,
+      1447,
+      681,
+      1386,
+      1393,
+      519
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-15",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1156,
+    "purchases": [
+      1970,
+      882,
+      1047,
+      1035
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-14",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1157,
+    "purchases": [
+      1554
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-04-04",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1158,
+    "purchases": [
+      402,
+      1219,
+      761
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-16",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1159,
+    "purchases": [
+      944,
+      1621,
+      1106,
+      933,
+      1137
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-17",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1160,
+    "purchases": [
+      1178
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-13",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1161,
+    "purchases": [
+      1905,
+      570,
+      1344,
+      659,
+      1291,
+      146
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-17",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1162,
+    "purchases": [
+      555
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-12",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1163,
+    "purchases": [
+      1383,
+      274
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-04-06",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1164,
+    "purchases": [
+      1933,
+      1800
+    ],
+    "location": "Barisal",
+    "last_login": "2025-02-23",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1165,
+    "purchases": [
+      1651
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-15",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1166,
+    "purchases": [
+      1173,
+      813,
+      1339
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-24",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1167,
+    "purchases": [
+      1850,
+      909,
+      1022,
+      922,
+      580
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-10",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1168,
+    "purchases": [
+      1586,
+      189,
+      1641
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-04-24",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1169,
+    "purchases": [
+      1265,
+      1368,
+      1363
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-24",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1170,
+    "purchases": [
+      1196,
+      1970,
+      1281
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-05-02",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1171,
+    "purchases": [
+      1123,
+      1653
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-04-03",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1172,
+    "purchases": [
+      1711,
+      1041
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-04-21",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1173,
+    "purchases": [
+      106,
+      1386,
+      1399
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-27",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1174,
+    "purchases": [
+      1285,
+      873,
+      912,
+      1507,
+      883,
+      1636
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-05-17",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1175,
+    "purchases": [
+      246,
+      1860,
+      844,
+      1152
+    ],
+    "location": "Khulna",
+    "last_login": "2025-01-11",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1176,
+    "purchases": [
+      869,
+      101
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-07",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1177,
+    "purchases": [
+      1921,
+      509
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-04-20",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1178,
+    "purchases": [
+      1575,
+      348,
+      1816,
+      1578,
+      1556
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-21",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1179,
+    "purchases": [
+      1588
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-10",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1180,
+    "purchases": [
+      942,
+      1567
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-15",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1181,
+    "purchases": [
+      781,
+      1243,
+      1438,
+      1760,
+      1747,
+      785
+    ],
+    "location": "Khulna",
+    "last_login": "2025-03-28",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1182,
+    "purchases": [
+      132,
+      1000
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-05-18",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1183,
+    "purchases": [
+      1790,
+      1492
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-26",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1184,
+    "purchases": [
+      1827,
+      1063,
+      450,
+      944
+    ],
+    "location": "Khulna",
+    "last_login": "2025-01-27",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1185,
+    "purchases": [
+      565,
+      1786
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-05-05",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1186,
+    "purchases": [
+      1446,
+      1875,
+      1154,
+      1272,
+      1661
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-30",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1187,
+    "purchases": [
+      1389,
+      1059
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-02-14",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1188,
+    "purchases": [
+      1867,
+      1180,
+      211,
+      1600,
+      1740,
+      1808
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-03",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1189,
+    "purchases": [
+      936,
+      233,
+      636
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-04-07",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1190,
+    "purchases": [
+      306,
+      548,
+      1986,
+      702,
+      1562
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-04-28",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1191,
+    "purchases": [
+      138
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-30",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1192,
+    "purchases": [
+      365,
+      1609,
+      525
+    ],
+    "location": "Khulna",
+    "last_login": "2025-02-06",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1193,
+    "purchases": [
+      1941,
+      1099,
+      1270,
+      1523
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-20",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1194,
+    "purchases": [
+      858,
+      1084,
+      316
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-04-14",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1195,
+    "purchases": [
+      352,
+      388,
+      1981,
+      1500,
+      1245
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-03-15",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1196,
+    "purchases": [
+      984,
+      1234,
+      908,
+      980,
+      1104,
+      171
+    ],
+    "location": "Barisal",
+    "last_login": "2025-03-01",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1197,
+    "purchases": [
+      1077,
+      911,
+      1095,
+      998
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-31",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1198,
+    "purchases": [
+      772,
+      1777,
+      340,
+      631
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-28",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1199,
+    "purchases": [
+      1733,
+      215,
+      207,
+      1114,
+      1762,
+      1880
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-08",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1200,
+    "purchases": [
+      1865,
+      1078,
+      1030,
+      743,
+      1948
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-21",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1201,
+    "purchases": [
+      754,
+      1455,
+      865,
+      786
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-01",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1202,
+    "purchases": [
+      1798
+    ],
+    "location": "Khulna",
+    "last_login": "2025-03-27",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1203,
+    "purchases": [
+      1436,
+      589
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-24",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1204,
+    "purchases": [
+      763
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-03-05",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1205,
+    "purchases": [
+      1545
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-29",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1206,
+    "purchases": [
+      1318
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-04-06",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1207,
+    "purchases": [
+      1400,
+      692,
+      640
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-30",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1208,
+    "purchases": [
+      824,
+      401
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-02-01",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1209,
+    "purchases": [
+      322,
+      891,
+      269,
+      510,
+      140,
+      1908
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-13",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1210,
+    "purchases": [
+      1445,
+      208,
+      927
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-05-20",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1211,
+    "purchases": [
+      718,
+      115
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-25",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1212,
+    "purchases": [
+      357,
+      1479,
+      1333,
+      1982
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-12",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1213,
+    "purchases": [
+      1167
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-05-20",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1214,
+    "purchases": [
+      451
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-05-19",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1215,
+    "purchases": [
+      1801,
+      933
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-03-04",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1216,
+    "purchases": [
+      1527,
+      245
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-03-13",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1217,
+    "purchases": [
+      1906,
+      317,
+      1596,
+      382,
+      502
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-29",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1218,
+    "purchases": [
+      213,
+      1343
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-20",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1219,
+    "purchases": [
+      1631,
+      587,
+      1903,
+      1237
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-05-11",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1220,
+    "purchases": [
+      379
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-05",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1221,
+    "purchases": [
+      422,
+      160
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-07",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1222,
+    "purchases": [
+      1552,
+      1571,
+      1448
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-28",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1223,
+    "purchases": [
+      504,
+      969,
+      1297,
+      1163,
+      232,
+      824
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-05-08",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1224,
+    "purchases": [
+      1993
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-15",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1225,
+    "purchases": [
+      848
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-30",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1226,
+    "purchases": [
+      1203,
+      1585,
+      1402,
+      257,
+      216,
+      903
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-27",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1227,
+    "purchases": [
+      146,
+      140,
+      1614
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-05",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1228,
+    "purchases": [
+      922,
+      628
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-26",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1229,
+    "purchases": [
+      475,
+      1824,
+      1945,
+      1652,
+      1983,
+      1546
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-08",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1230,
+    "purchases": [
+      231,
+      716,
+      482,
+      1301,
+      1207,
+      1631
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-02-18",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1231,
+    "purchases": [
+      1331,
+      1280,
+      373,
+      560,
+      1570,
+      583
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-07",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1232,
+    "purchases": [
+      1759,
+      1038
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-17",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1233,
+    "purchases": [
+      563,
+      1434,
+      1960
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-12",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1234,
+    "purchases": [
+      1770
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-19",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1235,
+    "purchases": [
+      1409
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-05-14",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1236,
+    "purchases": [
+      1297,
+      1478
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-03-10",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1237,
+    "purchases": [
+      1679,
+      1127,
+      1468,
+      1724
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-23",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1238,
+    "purchases": [
+      1082,
+      871
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-29",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1239,
+    "purchases": [
+      1079,
+      1163,
+      1760,
+      788
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-26",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1240,
+    "purchases": [
+      1456,
+      1633,
+      729,
+      1376,
+      184
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-12",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1241,
+    "purchases": [
+      594
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-04-09",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1242,
+    "purchases": [
+      1506,
+      1565,
+      894,
+      1897
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-12",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1243,
+    "purchases": [
+      1443,
+      1373
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-04-20",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1244,
+    "purchases": [
+      1009,
+      402
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-04",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1245,
+    "purchases": [
+      332,
+      1366,
+      1141
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-17",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1246,
+    "purchases": [
+      1009,
+      1518
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-06",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1247,
+    "purchases": [
+      816,
+      1586,
+      221
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-11",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1248,
+    "purchases": [
+      1657,
+      1344
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-04-05",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1249,
+    "purchases": [
+      1807
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-25",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1250,
+    "purchases": [
+      251
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-10",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1251,
+    "purchases": [
+      1903
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-05-18",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1252,
+    "purchases": [
+      1987,
+      806,
+      275,
+      1264,
+      818,
+      201
+    ],
+    "location": "Khulna",
+    "last_login": "2025-03-18",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1253,
+    "purchases": [
+      1311,
+      1995,
+      614,
+      158
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-07",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1254,
+    "purchases": [
+      184,
+      1388,
+      1280,
+      598,
+      1651,
+      886
+    ],
+    "location": "Khulna",
+    "last_login": "2025-02-21",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1255,
+    "purchases": [
+      207,
+      1216,
+      641,
+      936,
+      1683
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-05",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1256,
+    "purchases": [
+      408,
+      132,
+      464,
+      1290,
+      883,
+      1325
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-19",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1257,
+    "purchases": [
+      262
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-29",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1258,
+    "purchases": [
+      927,
+      603
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-28",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1259,
+    "purchases": [
+      224
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-05-20",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1260,
+    "purchases": [
+      416,
+      1829,
+      1102,
+      625,
+      1944
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-05",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1261,
+    "purchases": [
+      1626,
+      220
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-05-18",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1262,
+    "purchases": [
+      584,
+      1465,
+      1287,
+      1864,
+      1969
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-04-19",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1263,
+    "purchases": [
+      1976,
+      641,
+      315
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-16",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1264,
+    "purchases": [
+      1368,
+      239,
+      439,
+      1865,
+      468
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-12",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1265,
+    "purchases": [
+      1315,
+      1837,
+      509
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-30",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1266,
+    "purchases": [
+      178,
+      661
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-25",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1267,
+    "purchases": [
+      1896,
+      276,
+      552,
+      192
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-26",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1268,
+    "purchases": [
+      937,
+      1899,
+      1714,
+      1557
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-04",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1269,
+    "purchases": [
+      1727,
+      1158
+    ],
+    "location": "Khulna",
+    "last_login": "2025-01-22",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1270,
+    "purchases": [
+      254
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-04-18",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1271,
+    "purchases": [
+      1111,
+      1247,
+      1209,
+      1282,
+      1180
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-20",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1272,
+    "purchases": [
+      622,
+      808,
+      975,
+      1161,
+      1336,
+      874
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-26",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1273,
+    "purchases": [
+      1898,
+      1337,
+      767
+    ],
+    "location": "Khulna",
+    "last_login": "2025-02-07",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1274,
+    "purchases": [
+      841,
+      1455,
+      1202,
+      452,
+      1416
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-30",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1275,
+    "purchases": [
+      621
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-02-09",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1276,
+    "purchases": [
+      965,
+      1320,
+      613
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-05-17",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1277,
+    "purchases": [
+      966,
+      354,
+      1320,
+      1802,
+      965
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-11",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1278,
+    "purchases": [
+      369,
+      1798
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-02-10",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1279,
+    "purchases": [
+      395,
+      261,
+      1646,
+      803,
+      1471
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-04-27",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1280,
+    "purchases": [
+      1118,
+      1991
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-29",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1281,
+    "purchases": [
+      1291,
+      423
+    ],
+    "location": "Barisal",
+    "last_login": "2025-02-15",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1282,
+    "purchases": [
+      1332,
+      1434,
+      938,
+      152
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-11",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1283,
+    "purchases": [
+      429,
+      723,
+      1959,
+      1030,
+      319
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-24",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1284,
+    "purchases": [
+      150,
+      672,
+      1332
+    ],
+    "location": "Khulna",
+    "last_login": "2025-02-28",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1285,
+    "purchases": [
+      1949,
+      1890
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-11",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1286,
+    "purchases": [
+      944,
+      1136
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-03-31",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1287,
+    "purchases": [
+      1234,
+      293
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-13",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1288,
+    "purchases": [
+      1715,
+      870,
+      1209,
+      523,
+      936
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-02",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1289,
+    "purchases": [
+      1705,
+      477,
+      1162
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-25",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1290,
+    "purchases": [
+      562,
+      1445
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-04-26",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1291,
+    "purchases": [
+      112,
+      1331,
+      323
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-10",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1292,
+    "purchases": [
+      344
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-19",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1293,
+    "purchases": [
+      1247,
+      1858,
+      899,
+      1683,
+      125,
+      733
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-01",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1294,
+    "purchases": [
+      1230,
+      1916
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-13",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1295,
+    "purchases": [
+      220,
+      565,
+      1844,
+      1604
+    ],
+    "location": "Khulna",
+    "last_login": "2025-02-08",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1296,
+    "purchases": [
+      1638,
+      1919,
+      778
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-02-27",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1297,
+    "purchases": [
+      1676,
+      1322,
+      540,
+      626,
+      1116,
+      1959
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-06",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1298,
+    "purchases": [
+      1388,
+      292,
+      394,
+      635,
+      408
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-26",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1299,
+    "purchases": [
+      338,
+      192,
+      1922,
+      156,
+      910
+    ],
+    "location": "Khulna",
+    "last_login": "2025-03-25",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1300,
+    "purchases": [
+      1218
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-11",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1301,
+    "purchases": [
+      427,
+      605,
+      1993,
+      1206
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-03-27",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1302,
+    "purchases": [
+      898,
+      1468
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-27",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1303,
+    "purchases": [
+      1722,
+      325,
+      636,
+      1278,
+      1920,
+      1263
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-03-21",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1304,
+    "purchases": [
+      340
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-21",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1305,
+    "purchases": [
+      386
+    ],
+    "location": "Khulna",
+    "last_login": "2025-03-25",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1306,
+    "purchases": [
+      447,
+      1576,
+      568,
+      1339,
+      1680,
+      1702
+    ],
+    "location": "Khulna",
+    "last_login": "2025-01-18",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1307,
+    "purchases": [
+      1980
+    ],
+    "location": "Barisal",
+    "last_login": "2025-02-25",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1308,
+    "purchases": [
+      216,
+      1627,
+      891,
+      150,
+      359
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-02-26",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1309,
+    "purchases": [
+      465,
+      1354
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-10",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1310,
+    "purchases": [
+      1807,
+      261,
+      506,
+      257,
+      799,
+      1161
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-21",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1311,
+    "purchases": [
+      1305,
+      752,
+      265,
+      1650
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-04-30",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1312,
+    "purchases": [
+      1064,
+      1453,
+      151,
+      1104
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-09",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1313,
+    "purchases": [
+      1695,
+      1174,
+      453
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-01",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1314,
+    "purchases": [
+      447,
+      265,
+      806,
+      1555,
+      187
+    ],
+    "location": "Barisal",
+    "last_login": "2025-03-11",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1315,
+    "purchases": [
+      1716,
+      241,
+      855,
+      760
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-25",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1316,
+    "purchases": [
+      1853,
+      1296,
+      1593,
+      1702,
+      289
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-15",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1317,
+    "purchases": [
+      1067,
+      193,
+      650,
+      929
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-04-14",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1318,
+    "purchases": [
+      896,
+      1475,
+      857,
+      1746,
+      1365
+    ],
+    "location": "Khulna",
+    "last_login": "2025-05-01",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1319,
+    "purchases": [
+      858,
+      315,
+      583,
+      806,
+      942,
+      856
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-12",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1320,
+    "purchases": [
+      1894,
+      1416,
+      290,
+      1174,
+      1161,
+      354
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-01",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1321,
+    "purchases": [
+      904,
+      498,
+      633
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-12",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1322,
+    "purchases": [
+      1755,
+      169,
+      663,
+      342
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-02-02",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1323,
+    "purchases": [
+      1552,
+      1966,
+      759
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-16",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1324,
+    "purchases": [
+      309
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-12",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1325,
+    "purchases": [
+      677,
+      536,
+      1883
+    ],
+    "location": "Khulna",
+    "last_login": "2025-02-03",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1326,
+    "purchases": [
+      125
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-05-01",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1327,
+    "purchases": [
+      963,
+      608,
+      451,
+      1813,
+      1849,
+      313
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-31",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1328,
+    "purchases": [
+      1823,
+      343
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-05-17",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1329,
+    "purchases": [
+      1889,
+      881,
+      1316,
+      549
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-23",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1330,
+    "purchases": [
+      1188,
+      1340
+    ],
+    "location": "Barisal",
+    "last_login": "2025-03-01",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1331,
+    "purchases": [
+      1837,
+      355,
+      1679,
+      454
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-07",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1332,
+    "purchases": [
+      1191
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-04-01",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1333,
+    "purchases": [
+      1441,
+      1405,
+      1277,
+      722,
+      1687,
+      388
+    ],
+    "location": "Khulna",
+    "last_login": "2025-02-23",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1334,
+    "purchases": [
+      294,
+      1104,
+      1795,
+      1809
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-14",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1335,
+    "purchases": [
+      1113,
+      258,
+      1892,
+      855
+    ],
+    "location": "Khulna",
+    "last_login": "2025-01-25",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1336,
+    "purchases": [
+      1205,
+      1162
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-12",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1337,
+    "purchases": [
+      447,
+      116,
+      564
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-13",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1338,
+    "purchases": [
+      1544,
+      1169,
+      1055,
+      714
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-23",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1339,
+    "purchases": [
+      1667,
+      1664,
+      1115,
+      241
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-14",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1340,
+    "purchases": [
+      1853,
+      1036,
+      1910,
+      953
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-05-11",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1341,
+    "purchases": [
+      1574,
+      1874,
+      1150
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-03-23",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1342,
+    "purchases": [
+      631,
+      624,
+      406,
+      1143,
+      1104,
+      713
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-04-26",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1343,
+    "purchases": [
+      675,
+      896
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-01",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1344,
+    "purchases": [
+      1003,
+      590,
+      1446
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-26",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1345,
+    "purchases": [
+      1884,
+      446,
+      1406,
+      1955,
+      1470
+    ],
+    "location": "Khulna",
+    "last_login": "2025-05-06",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1346,
+    "purchases": [
+      1178
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-04-18",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1347,
+    "purchases": [
+      656,
+      431,
+      1896,
+      611,
+      1408
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-02-02",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1348,
+    "purchases": [
+      749,
+      1859,
+      707
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-28",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1349,
+    "purchases": [
+      919,
+      797,
+      1747,
+      842
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-04-16",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1350,
+    "purchases": [
+      1814,
+      188,
+      1267,
+      1386,
+      644,
+      213
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-07",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1351,
+    "purchases": [
+      185,
+      1104
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-02-03",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1352,
+    "purchases": [
+      590,
+      1211
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-24",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1353,
+    "purchases": [
+      1116,
+      419,
+      1832
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-14",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1354,
+    "purchases": [
+      327
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-27",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1355,
+    "purchases": [
+      482,
+      799
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-12",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1356,
+    "purchases": [
+      1312,
+      1927,
+      1015,
+      1070,
+      1346,
+      1367
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-04",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1357,
+    "purchases": [
+      1230,
+      836
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-05",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1358,
+    "purchases": [
+      364,
+      1727,
+      557,
+      690
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-10",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1359,
+    "purchases": [
+      1860,
+      946,
+      637
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-21",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1360,
+    "purchases": [
+      1798,
+      726,
+      1445
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-02-27",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1361,
+    "purchases": [
+      915,
+      1206
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-02",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1362,
+    "purchases": [
+      754,
+      861
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-15",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1363,
+    "purchases": [
+      1233,
+      1171,
+      398,
+      1475,
+      1324,
+      992
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-10",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1364,
+    "purchases": [
+      1274,
+      1034,
+      1205,
+      1899,
+      482
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-18",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1365,
+    "purchases": [
+      894,
+      812,
+      1430,
+      776
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-02",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1366,
+    "purchases": [
+      1726,
+      126,
+      1316
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-08",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1367,
+    "purchases": [
+      432,
+      662
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-07",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1368,
+    "purchases": [
+      923,
+      1243,
+      1087,
+      542,
+      1148,
+      1369
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-16",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1369,
+    "purchases": [
+      1537,
+      1793,
+      230,
+      191
+    ],
+    "location": "Barisal",
+    "last_login": "2025-03-02",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1370,
+    "purchases": [
+      628,
+      1137
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-12",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1371,
+    "purchases": [
+      1632,
+      878,
+      1580,
+      397
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-04-23",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1372,
+    "purchases": [
+      1223
+    ],
+    "location": "Barisal",
+    "last_login": "2025-02-25",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1373,
+    "purchases": [
+      1706
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-23",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1374,
+    "purchases": [
+      792,
+      1732
+    ],
+    "location": "Barisal",
+    "last_login": "2025-02-20",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1375,
+    "purchases": [
+      1434,
+      1652,
+      1893,
+      514,
+      752
+    ],
+    "location": "Khulna",
+    "last_login": "2025-03-17",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1376,
+    "purchases": [
+      756,
+      1288,
+      1055,
+      405,
+      1487,
+      581
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-05-07",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1377,
+    "purchases": [
+      1868,
+      1433,
+      1981,
+      873
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-24",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1378,
+    "purchases": [
+      1768,
+      314,
+      1908
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-05",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1379,
+    "purchases": [
+      1260,
+      520,
+      989
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-02-11",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1380,
+    "purchases": [
+      424,
+      851,
+      1896,
+      653,
+      820,
+      494
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-03-23",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1381,
+    "purchases": [
+      415,
+      419,
+      419,
+      762,
+      1328,
+      680
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-05",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1382,
+    "purchases": [
+      1116,
+      1541,
+      387
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-16",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1383,
+    "purchases": [
+      115,
+      1580,
+      811
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-15",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1384,
+    "purchases": [
+      1491,
+      614
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-26",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1385,
+    "purchases": [
+      1331,
+      1167,
+      1615
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-02-05",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1386,
+    "purchases": [
+      161,
+      1977,
+      1102,
+      1472,
+      642
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-05-12",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1387,
+    "purchases": [
+      1329
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-19",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1388,
+    "purchases": [
+      219,
+      1712,
+      1480
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-27",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1389,
+    "purchases": [
+      1647,
+      633,
+      1984,
+      266,
+      759,
+      908
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-05-09",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1390,
+    "purchases": [
+      713,
+      260
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-04",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1391,
+    "purchases": [
+      1277
+    ],
+    "location": "Barisal",
+    "last_login": "2025-03-23",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1392,
+    "purchases": [
+      1269,
+      1640
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-06",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1393,
+    "purchases": [
+      937,
+      1686,
+      1454
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-25",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1394,
+    "purchases": [
+      867,
+      953,
+      1848,
+      1074,
+      1949
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-03-05",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1395,
+    "purchases": [
+      358,
+      1475,
+      778,
+      1387,
+      1295
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-26",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1396,
+    "purchases": [
+      815,
+      1064,
+      1366,
+      1196
+    ],
+    "location": "Khulna",
+    "last_login": "2025-02-12",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1397,
+    "purchases": [
+      140,
+      1325,
+      307,
+      1746
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-27",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1398,
+    "purchases": [
+      1718
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-27",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1399,
+    "purchases": [
+      1186,
+      905,
+      1456,
+      615,
+      1887
+    ],
+    "location": "Barisal",
+    "last_login": "2025-02-17",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1400,
+    "purchases": [
+      560,
+      339,
+      185,
+      229
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-13",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1401,
+    "purchases": [
+      1107,
+      841,
+      1280,
+      1357,
+      1154
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-02-01",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1402,
+    "purchases": [
+      1824,
+      302,
+      1191,
+      1844,
+      1438,
+      453
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-02-18",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1403,
+    "purchases": [
+      1454,
+      1277,
+      1747
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-12",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1404,
+    "purchases": [
+      477,
+      1333,
+      301
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-05-03",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1405,
+    "purchases": [
+      1093,
+      1460,
+      1138
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-03-06",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1406,
+    "purchases": [
+      370,
+      1370,
+      683,
+      1949,
+      111,
+      489
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-02-01",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1407,
+    "purchases": [
+      1428,
+      581,
+      647,
+      646,
+      1481
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-02",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1408,
+    "purchases": [
+      102,
+      1335
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-19",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1409,
+    "purchases": [
+      213,
+      761
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-12",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1410,
+    "purchases": [
+      1325,
+      1013
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-01",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1411,
+    "purchases": [
+      943,
+      728
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-27",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1412,
+    "purchases": [
+      218,
+      669,
+      517,
+      1275,
+      1233,
+      1217
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-03-10",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1413,
+    "purchases": [
+      1785,
+      1579,
+      416,
+      191,
+      1268
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-29",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1414,
+    "purchases": [
+      1654
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-23",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1415,
+    "purchases": [
+      672,
+      357,
+      354
+    ],
+    "location": "Khulna",
+    "last_login": "2025-05-15",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1416,
+    "purchases": [
+      303,
+      1766,
+      1682,
+      186,
+      825
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-02-17",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1417,
+    "purchases": [
+      1061,
+      1652
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-03-28",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1418,
+    "purchases": [
+      1956
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-09",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1419,
+    "purchases": [
+      179,
+      1501,
+      371,
+      1769,
+      379,
+      270
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-05-02",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1420,
+    "purchases": [
+      1446
+    ],
+    "location": "Barisal",
+    "last_login": "2025-02-26",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1421,
+    "purchases": [
+      633,
+      778,
+      946,
+      1910
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-30",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1422,
+    "purchases": [
+      1988,
+      1800,
+      1226,
+      1435
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-16",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1423,
+    "purchases": [
+      835,
+      1712,
+      404,
+      1794
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-28",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1424,
+    "purchases": [
+      1609,
+      1500,
+      871
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-26",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1425,
+    "purchases": [
+      1431,
+      1608,
+      1393,
+      611,
+      1843,
+      1290
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-10",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1426,
+    "purchases": [
+      185,
+      1824,
+      340,
+      336
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-03-03",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1427,
+    "purchases": [
+      355,
+      1140,
+      1948,
+      1736,
+      350
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-20",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1428,
+    "purchases": [
+      1961,
+      1019
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-05-13",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1429,
+    "purchases": [
+      672,
+      1374,
+      1585
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-26",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1430,
+    "purchases": [
+      1433,
+      1014,
+      1515
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-27",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1431,
+    "purchases": [
+      759,
+      793,
+      1147
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-26",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1432,
+    "purchases": [
+      1763,
+      1169,
+      792
+    ],
+    "location": "Khulna",
+    "last_login": "2025-02-16",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1433,
+    "purchases": [
+      919,
+      1827,
+      614,
+      1509
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-14",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1434,
+    "purchases": [
+      509,
+      492
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-05-14",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1435,
+    "purchases": [
+      375
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-12",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1436,
+    "purchases": [
+      893,
+      1980,
+      962
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-11",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1437,
+    "purchases": [
+      404,
+      1868,
+      930,
+      502
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-16",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1438,
+    "purchases": [
+      893
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-03-31",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1439,
+    "purchases": [
+      672,
+      476,
+      634,
+      1728
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-05-11",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1440,
+    "purchases": [
+      548,
+      1718
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-08",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1441,
+    "purchases": [
+      672,
+      948,
+      1603,
+      499
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-02",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1442,
+    "purchases": [
+      1746,
+      1651
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-21",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1443,
+    "purchases": [
+      1458,
+      1708,
+      1973,
+      914,
+      940
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-23",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1444,
+    "purchases": [
+      1722,
+      1069,
+      1723,
+      1598,
+      470
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-15",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1445,
+    "purchases": [
+      627,
+      848
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-01-26",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1446,
+    "purchases": [
+      338,
+      1299,
+      389
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-20",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1447,
+    "purchases": [
+      479,
+      1298
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-04-21",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1448,
+    "purchases": [
+      1438,
+      749,
+      322,
+      1629,
+      128
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-10",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1449,
+    "purchases": [
+      510,
+      1535
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-03-31",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1450,
+    "purchases": [
+      900,
+      1885,
+      1221,
+      508
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-02-07",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1451,
+    "purchases": [
+      1653,
+      603
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-04-24",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1452,
+    "purchases": [
+      589,
+      468,
+      735,
+      1102,
+      187
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-03-13",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1453,
+    "purchases": [
+      1580,
+      1472,
+      817
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-14",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1454,
+    "purchases": [
+      601,
+      1557
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-05-12",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1455,
+    "purchases": [
+      1260,
+      976,
+      1346
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-12",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1456,
+    "purchases": [
+      1712
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-19",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1457,
+    "purchases": [
+      1431,
+      1300
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-09",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1458,
+    "purchases": [
+      1330,
+      707,
+      1377,
+      217,
+      174,
+      508
+    ],
+    "location": "Khulna",
+    "last_login": "2025-03-31",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1459,
+    "purchases": [
+      366,
+      1825
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-09",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1460,
+    "purchases": [
+      1082,
+      513,
+      494,
+      1235,
+      1563,
+      536
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-01",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1461,
+    "purchases": [
+      1628,
+      1643,
+      548,
+      1082
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-25",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1462,
+    "purchases": [
+      260,
+      723,
+      333,
+      769,
+      514,
+      1397
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-05-06",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1463,
+    "purchases": [
+      858
+    ],
+    "location": "Barisal",
+    "last_login": "2025-05-07",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1464,
+    "purchases": [
+      1701,
+      693,
+      382,
+      208,
+      1254,
+      1843
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-20",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1465,
+    "purchases": [
+      557,
+      710,
+      505
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-24",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1466,
+    "purchases": [
+      1071,
+      914,
+      1719,
+      1143
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-02-11",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1467,
+    "purchases": [
+      1076,
+      860,
+      1024,
+      342
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-16",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1468,
+    "purchases": [
+      191,
+      1665,
+      342,
+      999,
+      572,
+      1897
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-28",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1469,
+    "purchases": [
+      136,
+      1942,
+      204,
+      1994,
+      552
+    ],
+    "location": "Dhaka",
+    "last_login": "2025-03-11",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1470,
+    "purchases": [
+      454,
+      1494,
+      467
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-04-19",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1471,
+    "purchases": [
+      1607,
+      1532,
+      1368
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-15",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1472,
+    "purchases": [
+      473
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-28",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1473,
+    "purchases": [
+      1914,
+      568,
+      1252,
+      528
+    ],
+    "location": "Khulna",
+    "last_login": "2025-04-19",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1474,
+    "purchases": [
+      1046,
+      228,
+      1762,
+      108,
+      480
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-20",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1475,
+    "purchases": [
+      1142,
+      336,
+      388,
+      711,
+      817
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-10",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1476,
+    "purchases": [
+      1943,
+      376,
+      690,
+      1925,
+      1084,
+      983
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-05",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1477,
+    "purchases": [
+      1709,
+      1144
+    ],
+    "location": "Khulna",
+    "last_login": "2025-01-27",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1478,
+    "purchases": [
+      1845
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-04-25",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1479,
+    "purchases": [
+      792,
+      1782,
+      122,
+      795
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-01-08",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1480,
+    "purchases": [
+      1030,
+      1787,
+      605,
+      514
+    ],
+    "location": "Barisal",
+    "last_login": "2025-03-22",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1481,
+    "purchases": [
+      1583,
+      1220,
+      508,
+      505,
+      373,
+      306
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-03-23",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1482,
+    "purchases": [
+      939,
+      511
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-05-15",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1483,
+    "purchases": [
+      1182,
+      1726,
+      1410,
+      1715,
+      1380,
+      1888
+    ],
+    "location": "Barisal",
+    "last_login": "2025-04-05",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1484,
+    "purchases": [
+      1678,
+      418
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-02-06",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1485,
+    "purchases": [
+      560
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-02-26",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1486,
+    "purchases": [
+      191,
+      1052,
+      1816
+    ],
+    "location": "Barisal",
+    "last_login": "2025-03-18",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1487,
+    "purchases": [
+      586,
+      1644,
+      1235
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-05-02",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1488,
+    "purchases": [
+      1085,
+      1110,
+      1652,
+      1761
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-01-04",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1489,
+    "purchases": [
+      793,
+      1405,
+      985
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-07",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1490,
+    "purchases": [
+      1486,
+      972,
+      1896,
+      1891
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-03-27",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1491,
+    "purchases": [
+      456
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-03-17",
+    "loyalty": "Silver"
+  },
+  {
+    "user_id": 1492,
+    "purchases": [
+      1106,
+      106,
+      1824,
+      539,
+      450,
+      1755
+    ],
+    "location": "Mymensingh",
+    "last_login": "2025-01-18",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1493,
+    "purchases": [
+      329,
+      1683
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-02-14",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1494,
+    "purchases": [
+      862
+    ],
+    "location": "Rangpur",
+    "last_login": "2025-04-02",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1495,
+    "purchases": [
+      878,
+      1786
+    ],
+    "location": "Chittagong",
+    "last_login": "2025-04-11",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1496,
+    "purchases": [
+      1027,
+      1630,
+      1971,
+      1773,
+      759
+    ],
+    "location": "Barisal",
+    "last_login": "2025-01-01",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1497,
+    "purchases": [
+      1746,
+      1011,
+      1394,
+      1504
+    ],
+    "location": "Sylhet",
+    "last_login": "2025-01-08",
+    "loyalty": "Gold"
+  },
+  {
+    "user_id": 1498,
+    "purchases": [
+      105,
+      1298
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-04-28",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1499,
+    "purchases": [
+      1164,
+      290,
+      772,
+      235
+    ],
+    "location": "Barisal",
+    "last_login": "2025-03-03",
+    "loyalty": "Bronze"
+  },
+  {
+    "user_id": 1500,
+    "purchases": [
+      315,
+      1437,
+      1753,
+      1403
+    ],
+    "location": "Rajshahi",
+    "last_login": "2025-01-28",
+    "loyalty": "Silver"
+  }
+]
